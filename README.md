@@ -5,6 +5,6 @@
 - 📫 How to reach me: https://wa.me/message/2NNRWQKIUELDG1
 
 <!---
-dammusician/dammusician is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+dammusician is an ✨ excellent ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
